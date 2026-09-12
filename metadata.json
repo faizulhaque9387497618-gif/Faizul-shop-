@@ -1,0 +1,6 @@
+{
+  "name": "Faizul Pay",
+  "description": "Faizul Pay - India & Bangladesh Mobile Recharge with PhonePe, Paytm, Jio, Airtel, Vi, and UPI payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
